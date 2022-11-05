@@ -8,8 +8,8 @@ html {
     box-sizing: inherit;
 }
 
-.body {
-    background-image: url('/image/zachodSlonca.jpg');
+body {
+    background-image: url("../image/zachodSlonca.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
