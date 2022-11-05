@@ -9,7 +9,7 @@ html {
 }
 
 .body {
-    background-image: url('/image/zachodSlonca.jpg');
+    background-image: url('https://images.unsplash.com/photo-1664236786147-99cdd08ad3d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjY4MTM3MDM&ixlib=rb-4.0.3&q=80&w=400');
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
