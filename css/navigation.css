@@ -1,0 +1,8 @@
+.navigation {
+    list-style-type: none;
+    padding: 0;
+}
+
+.navigation__listItem {
+    margin: 0 auto;
+}

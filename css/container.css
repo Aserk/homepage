@@ -1,0 +1,19 @@
+.container {
+    color: rgb(242, 68, 98);
+    background-color: #333333ed;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.4;
+    max-width: 700px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.container--whiteBackground {
+    color: #333;
+    background-color: #F6F7F8e0;
+}
+
+.container__tableContainer {
+    overflow-x: auto;
+}
