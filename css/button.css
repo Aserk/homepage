@@ -1,25 +1,9 @@
 .button {
     background-color: #FD501E;
-    border: 2px solid black;
     width: 100%;
     max-width: 200px;
-    margin-top: 2px;
-    font-family: 'Lato', sans-serif;
-}
-
-.button__button {
     padding: 10px;
-}
-
-.button__link {
-    color: black;
-}
-
-.button__link:link {
-    text-decoration: none;
-    display: inline-block;
-    width: 100%;
-    padding: 10px 0;
+    font-family: 'Lato', sans-serif;
 }
 
 .button:hover {

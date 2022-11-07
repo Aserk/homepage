@@ -8,15 +8,15 @@
     text-align: right;
 }
 
-.table__header {
-    background-color: #272727ed;
-}
-
 .table__cell {
     text-align: center;
     border: 1px solid #FD501E;
     padding: 20px;
     vertical-align: center;
+}
+
+.table__cell--header {
+    background-color: #272727ed;
 }
 
 .table__header--whiteBackground {

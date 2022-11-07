@@ -1,8 +1,31 @@
 .navigation {
     list-style-type: none;
     padding: 0;
+    display: flex;
 }
 
 .navigation__listItem {
-    margin: 0 auto;
+    width: 100%;
+    border: 2px solid black;
+}
+
+.navigation__link {
+    background-color: #FD501E;
+    color: black;
+    max-width: 200px;
+}
+
+.navigation__link:link {
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.navigation__link:hover {
+    background-color: hsl(13, 98%, 50%);
+}
+
+.navigation__link:active {
+    background-color: hsl(13, 98%, 45%);
 }
